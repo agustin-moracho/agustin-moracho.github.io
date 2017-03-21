@@ -1,0 +1,7 @@
+header h1,
+header h3 {
+  color: whitesmoke;
+}
+header .text-vertical-center {
+  background-color: hsla(180,50%,20%,0.85);
+}

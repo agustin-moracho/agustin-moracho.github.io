@@ -1,0 +1,27 @@
+# Site settings
+title: Agustín Moracho
+email: agustinmoracho@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  Soluciones de aislamineto e impermeabilizaciones.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Agustín Moracho
+email: agustinmoracho@example.com
+facebook_username:
+twitter_username:
+github_username:
+address:
+  - line: Baratxategi 46, 2 Izda.
+  - line: 20015 - San Sebastián
+  # Feel free to add more lines here 
+telephone: 943 123 456
+copyright:
+
+# API settings
+google_api_key: AIzaSyCQol0dydPAKowVxVW5jtY9CzmpjRSOOdE 
+map_address: Baratxategi 46, San Sebastián
+
+# Build settings
+markdown: kramdown

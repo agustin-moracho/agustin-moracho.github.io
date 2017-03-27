@@ -11,12 +11,13 @@ owner: Agustín Moracho
 email: agustinmoracho@example.com
 facebook_username:
 twitter_username:
-github_username:
+google_username:
 address:
   - line: Baratxategi 46, 2 Izda.
   - line: 20015 - San Sebastián
   # Feel free to add more lines here 
-telephone: 645 710 290
+telephone_1: 943 246 765
+telephone_2: 645 710 290
 copyright: Agustín Moracho
 
 # API settings

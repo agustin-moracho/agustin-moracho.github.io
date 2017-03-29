@@ -38,3 +38,8 @@ $(document).ready(function() {
     $('#map_iframe').addClass('scrolloff');
   });
 });
+
+// Magnific Popup Initialization
+$(document).ready(function() {
+  $('.image-link').magnificPopup({type:'image',gallery:{enabled:true}});
+});

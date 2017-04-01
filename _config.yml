@@ -21,7 +21,7 @@ copyright: Agustín Moracho
 
 # API settings
 google_api_key: AIzaSyCQol0dydPAKowVxVW5jtY9CzmpjRSOOdE 
-map_address: Baratxategi 46, San Sebastián
+map_address: Baratxategi 46, 2, San Sebastián
 
 # Build settings
 markdown: kramdown

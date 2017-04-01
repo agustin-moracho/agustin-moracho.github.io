@@ -12,7 +12,7 @@ email: info@agustinmoracho.com
 facebook_username:
 google_username: 115885911036446905407
 address:
-  - line: Baratxategi 46, 2 Izda.
+  - line: Baratzategi 46, 2 Izda.
   - line: 20015 - San Sebastián
   # Feel free to add more lines here 
 telephone_1: 943 246 765
@@ -21,7 +21,7 @@ copyright: Agustín Moracho
 
 # API settings
 google_api_key: AIzaSyCQol0dydPAKowVxVW5jtY9CzmpjRSOOdE 
-map_address: Baratxategi 46, 2, San Sebastián
+map_address: Baratzategi 46, 2I, San Sebastián
 
 # Build settings
 markdown: kramdown

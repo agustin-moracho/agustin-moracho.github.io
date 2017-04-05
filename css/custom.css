@@ -5,3 +5,12 @@ header h3 {
 header .text-vertical-center {
   background-color: hsla(224,20%,10%,0.45);
 }
+
+article header h1 {
+  color: #333;
+}
+
+#explicitsubmit,
+#impliedsubmit{
+  color: #ca0000;
+}

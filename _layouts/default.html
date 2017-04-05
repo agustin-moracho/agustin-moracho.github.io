@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+  {% include head.html %}
+
+  <body>
+    {% include navigation.html %}
+
+    <header class="callout">
+      <div class="text-vertical-center">
+        <h1>{{ site.title }}</h1>
+        <h2>Impermeabilizaciones</h2>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <article>
+          <header>
+            <h1>{{ page.title }}</h1>
+          </header>
+          <main>
+            {{ content }}
+          </main>
+        </article>
+      </div>
+    </div>
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>

@@ -43,3 +43,12 @@ $(document).ready(function() {
 $(document).ready(function() {
   $('.image-link').magnificPopup({type:'image',gallery:{enabled:true}});
 });
+
+// EU Cookies Directive
+$(document).ready(function () {
+  $.cookiesDirective({
+    privacyPolicyUri: 'legal.html',
+    position: 'bottom',
+    explicitConsent: false
+  })
+})
